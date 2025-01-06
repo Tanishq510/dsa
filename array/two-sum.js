@@ -18,3 +18,5 @@ const exists = array.indexOf(diff)
 if(exists !==-1){
     anotherNumber = diff
 }
+
+console.log(anotherNumber)
